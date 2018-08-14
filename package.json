@@ -1,0 +1,16 @@
+{
+  "name": "sogosearch",
+  "main": "./lib/googlesearch",
+  "version": "1.8.0",
+  "description": "Search Highlighted word in m.sogo",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "msogosearch:sogo-it"
+  },
+  "repository": "https://github.com/shendezhou/msogosearch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

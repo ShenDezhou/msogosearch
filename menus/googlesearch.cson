@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle sogosearch'
+      'command': 'sogosearch:sogo-it'
+    }
+  ]
+'menu': [
+  {
+    'label': 'My Packages'
+    'submenu': [
+      'label': 'Sogo Search'
+      'submenu': [
+        {
+          'label': 'Search'
+          'command': 'sogosearch:sogo-it'
+        }
+      ]
+    ]
+  }
+]
