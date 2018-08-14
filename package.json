@@ -1,7 +1,7 @@
 {
   "name": "msogosearch",
   "main": "./lib/googlesearch",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "description": "Search Highlighted word in m.sogo",
   "keywords": [],
   "activationCommands": {
