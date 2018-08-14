@@ -10,7 +10,7 @@
   {
     'label': 'My Packages'
     'submenu': [
-      'label': 'Sogo Search'
+      'label': 'mSogo Search'
       'submenu': [
         {
           'label': 'Search'
