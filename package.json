@@ -1,5 +1,5 @@
 {
-  "name": "sogosearch",
+  "name": "msogosearch",
   "main": "./lib/googlesearch",
   "version": "1.11.0",
   "description": "Search Highlighted word in m.sogo",
